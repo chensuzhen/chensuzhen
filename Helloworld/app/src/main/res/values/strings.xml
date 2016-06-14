@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="btn_txt">点击</string>
+</resources>
